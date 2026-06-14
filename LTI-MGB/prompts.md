@@ -1,6 +1,6 @@
 # Prompts utilizados para la generación de artefactos Agile
 
-Los siguientes prompts fueron utilizados durante el proceso de generación de User Stories, Product Backlog y planificación inicial del desarrollo, tomando como referencia el documento PRD `LTI-MMX.md`.
+Los siguientes prompts fueron utilizados durante el proceso de generación de User Stories, Product Backlog y planificación inicial del desarrollo, tomando como referencia el documento PRD `LTI-MGB.md`.
 
 ---
 
@@ -9,7 +9,7 @@ Los siguientes prompts fueron utilizados durante el proceso de generación de Us
 ```text
 Actúa como Product Owner Senior especializado en productos SaaS B2B.
 
-Voy a proporcionarte un PRD llamado "LTI-MMX.md".
+Voy a proporcionarte un PRD llamado "LTI-MGB.md".
 
 Analiza exclusivamente la información contenida en dicho documento y genera User Stories para el MVP del producto.
 
@@ -41,7 +41,7 @@ Instrucciones:
 ```text
 Actúa como Product Manager Senior.
 
-Utilizando exclusivamente la información del PRD "LTI-MMX.md" y las User Stories previamente generadas:
+Utilizando exclusivamente la información del PRD "LTI-MGB.md" y las User Stories previamente generadas:
 
 1. Construye un Product Backlog completo.
 2. Prioriza los elementos utilizando la metodología MoSCoW:
@@ -78,7 +78,7 @@ Actúa simultáneamente como:
 - Product Owner
 - Agile Delivery Lead
 
-En el primer prompt esta el documento PRD adjuntado como fichero de nombre "LTI-MMX.md".
+En el primer prompt esta el documento PRD adjuntado como fichero de nombre "LTI-MGB.md".
 
 Tu misión es preparar la documentación necesaria para iniciar la implementación del producto.
 
@@ -88,7 +88,7 @@ Genera el resultado en las siguientes secciones:
 
 # 1. User Stories
 
-Genera entre 3 y 5 User Stories utilizando la plantilla:
+Genera entre 10 y 15 User Stories utilizando la plantilla:
 
 Título
 
